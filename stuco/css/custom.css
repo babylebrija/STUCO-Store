@@ -9,14 +9,14 @@ h3,
 h4, 
 h5, 
 h6 {
-	color: #dd845a;
+	color: #ad0a0a;
 	}
 	
 .feature {
 	background: url('../images/light_bulb.jpg');
 	background-position: top right;
 	background-size: cover;
-	background-color: #dd845a;
+	background-color: #ad0a0a;
 	color: white;
 	text-shadow: 1px 1px 8px black;
 	}
@@ -88,12 +88,12 @@ h6 {
 }
 
 .featured-product h3 {
-	color: #dd845a;
+	color: #ad0a0a;
 	font-size: 18px;
 	}
 
 .featured-product .price {
-	color: #dd845a;
+	color: #ad0a0a;
 	font-size: 18px;
 	}
 	
@@ -160,7 +160,7 @@ a:focus {
   background-color: #fff;
 }
 .navbar-default .navbar-brand {
-  color: #dd845a;
+  color: #ad0a0a;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
